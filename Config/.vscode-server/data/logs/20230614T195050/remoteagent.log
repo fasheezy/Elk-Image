@@ -1,0 +1,130 @@
+2023-06-14 19:50:50.494 [info] 
+
+
+
+
+2023-06-14 19:50:50.494 [info] Extension host agent started.
+2023-06-14 19:50:50.507 [info] Started initializing default profile extensions in extensions installation folder. file:///home/jmat/.vscode-server/extensions
+2023-06-14 19:50:50.528 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/jmat/.vscode-server/extensions
+2023-06-14 19:50:50.551 [info] [127.0.0.1][1b34e3d1][ManagementConnection] New connection established.
+2023-06-14 19:50:50.553 [info] [127.0.0.1][a728fae9][ExtensionHostConnection] New connection established.
+2023-06-14 19:50:50.556 [info] [127.0.0.1][a728fae9][ExtensionHostConnection] <210731> Launched Extension Host Process.
+2023-06-14 19:51:31.029 [info] [127.0.0.1][1b34e3d1][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 19:51:31.050 [info] [127.0.0.1][a728fae9][ExtensionHostConnection] <210731> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 19:51:31.051 [info] Cancelling previous shutdown timeout
+2023-06-14 19:51:31.051 [info] Last EH closed, waiting before shutting down
+2023-06-14 19:52:41.812 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-14 19:52:41.812 [info] Cancelling previous shutdown timeout
+2023-06-14 19:52:42.015 [info] [127.0.0.1][6db0f799][ManagementConnection] New connection established.
+2023-06-14 19:52:42.017 [info] [127.0.0.1][6683c983][ExtensionHostConnection] New connection established.
+2023-06-14 19:52:42.022 [info] [127.0.0.1][6683c983][ExtensionHostConnection] <210963> Launched Extension Host Process.
+2023-06-14 19:52:44.378 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-14 19:55:50.645 [info] [127.0.0.1][6db0f799][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 19:55:50.656 [info] [127.0.0.1][6683c983][ExtensionHostConnection] <210963> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 19:55:50.657 [info] Cancelling previous shutdown timeout
+2023-06-14 19:55:50.657 [info] Last EH closed, waiting before shutting down
+2023-06-14 19:56:00.541 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-14 19:56:00.541 [info] Cancelling previous shutdown timeout
+2023-06-14 19:56:00.733 [info] [127.0.0.1][f2f19a61][ManagementConnection] New connection established.
+2023-06-14 19:56:00.735 [info] [127.0.0.1][b8f09818][ExtensionHostConnection] New connection established.
+2023-06-14 19:56:00.739 [info] [127.0.0.1][b8f09818][ExtensionHostConnection] <211741> Launched Extension Host Process.
+2023-06-14 19:56:03.042 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-14 19:56:21.229 [info] [127.0.0.1][b8f09818][ExtensionHostConnection] <211741> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 19:56:21.230 [info] Cancelling previous shutdown timeout
+2023-06-14 19:56:21.230 [info] Last EH closed, waiting before shutting down
+2023-06-14 19:56:32.928 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-14 19:56:32.928 [info] Cancelling previous shutdown timeout
+2023-06-14 19:56:33.045 [info] [127.0.0.1][ddc30fda][ManagementConnection] New connection established.
+2023-06-14 19:56:33.048 [info] [127.0.0.1][610c8d2b][ExtensionHostConnection] New connection established.
+2023-06-14 19:56:33.053 [info] [127.0.0.1][610c8d2b][ExtensionHostConnection] <212004> Launched Extension Host Process.
+2023-06-14 19:56:35.368 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-14 19:56:45.280 [info] [127.0.0.1][ddc30fda][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 19:56:45.295 [info] [127.0.0.1][610c8d2b][ExtensionHostConnection] <212004> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 19:56:45.295 [info] Cancelling previous shutdown timeout
+2023-06-14 19:56:45.296 [info] Last EH closed, waiting before shutting down
+2023-06-14 20:01:17.424 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-14 20:01:17.424 [info] Cancelling previous shutdown timeout
+2023-06-14 20:01:17.579 [info] [127.0.0.1][b9f133a3][ManagementConnection] New connection established.
+2023-06-14 20:01:17.591 [info] [127.0.0.1][524631ae][ExtensionHostConnection] New connection established.
+2023-06-14 20:01:17.595 [info] [127.0.0.1][524631ae][ExtensionHostConnection] <212670> Launched Extension Host Process.
+2023-06-14 20:01:20.638 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-14 20:01:43.981 [info] [127.0.0.1][b9f133a3][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 20:01:44.000 [info] [127.0.0.1][524631ae][ExtensionHostConnection] <212670> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 20:01:44.000 [info] Cancelling previous shutdown timeout
+2023-06-14 20:01:44.000 [info] Last EH closed, waiting before shutting down
+2023-06-14 20:02:22.962 [info] Got delay-shutdown request while in shutdown timeout, delaying
+2023-06-14 20:02:22.962 [info] Cancelling previous shutdown timeout
+2023-06-14 20:02:23.115 [info] [127.0.0.1][7544a5de][ManagementConnection] New connection established.
+2023-06-14 20:02:23.126 [info] [127.0.0.1][2a9adb2d][ExtensionHostConnection] New connection established.
+2023-06-14 20:02:23.129 [info] [127.0.0.1][2a9adb2d][ExtensionHostConnection] <212970> Launched Extension Host Process.
+2023-06-14 20:02:25.400 [error] CodeExpectedError: Could not find pty on pty host
+    at E.L (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:6871)
+    at E.updateTitle (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:28:2652)
+    at Object.call (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:17:5093)
+    at h.s (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:5445)
+    at h.q (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4936)
+    at /home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:15:4341
+    at c.invoke (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:145)
+    at g.deliver (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:2125)
+    at t.fire (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:11:1733)
+    at process.U (/home/jmat/.vscode-server/bin/b3e4e68a0bc097f0ae7907b217c1119af9e03435/out/vs/platform/terminal/node/ptyHostMain.js:9:21145)
+    at process.emit (node:events:513:28)
+    at emit (node:internal/child_process:939:14)
+    at processTicksAndRejections (node:internal/process/task_queues:84:21)
+2023-06-14 20:02:40.193 [info] [127.0.0.1][7544a5de][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-14 20:02:40.214 [info] [127.0.0.1][2a9adb2d][ExtensionHostConnection] <212970> Extension Host Process exited with code: 0, signal: null.
+2023-06-14 20:02:40.214 [info] Cancelling previous shutdown timeout
+2023-06-14 20:02:40.214 [info] Last EH closed, waiting before shutting down
+2023-06-14 20:07:40.215 [info] Last EH closed, shutting down

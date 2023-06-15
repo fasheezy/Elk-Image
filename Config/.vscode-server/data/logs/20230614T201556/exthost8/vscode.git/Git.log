@@ -1,0 +1,82 @@
+2023-06-15 00:09:54.144 [info] Log level: Info
+2023-06-15 00:09:54.145 [info] Validating found git in: "git"
+2023-06-15 00:09:54.145 [info] Using git "2.34.1" from "git"
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [24ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-06-15 00:09:54.145 [info] Open repository: /home/jmat/UEFI-DataBase-F
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [7ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git config --get commit.template [4ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-15 00:09:54.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --git-dir --git-common-dir [9ms]
+2023-06-15 00:09:54.145 [info] Open repository: /home/jmat/elk-docker
+2023-06-15 00:09:54.145 [info] > git status -z -uall [15ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [4ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [11ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git config --get commit.template [18ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [2ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git config --get commit.template [21ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [5ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2023-06-15 00:09:54.145 [info] > git status -z -uall [2ms]
+2023-06-15 00:09:54.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [17ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git status -z -uall [4ms]
+2023-06-15 00:09:54.145 [info] > git config --get commit.template [10ms]
+2023-06-15 00:09:54.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2023-06-15 00:09:54.145 [info] > git status -z -uall [3ms]
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [0ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [0ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git rev-parse --show-toplevel [1ms]
+2023-06-15 00:09:54.145 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-06-15 00:09:54.145 [info] > git fetch [485ms]
+2023-06-15 00:09:54.145 [info] > git config --get commit.template [3ms]
+2023-06-15 00:09:54.145 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-15 00:09:54.145 [info] > git status -z -uall [2ms]
+2023-06-15 00:09:54.751 [info] > git fetch [1380ms]
+2023-06-15 00:09:54.751 [info] Missing or invalid credentials.
+Skip silent fetch commands
+2023-06-15 00:09:54.759 [info] > git config --get commit.template [4ms]
+2023-06-15 00:09:54.760 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2023-06-15 00:09:54.764 [info] > git status -z -uall [1ms]
+2023-06-15 00:09:55.108 [info] > git config --get commit.template [4ms]
+2023-06-15 00:09:55.109 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2023-06-15 00:09:55.113 [info] > git status -z -uall [2ms]
+2023-06-15 00:09:55.825 [info] > git config --get commit.template [4ms]
+2023-06-15 00:09:55.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2023-06-15 00:09:55.829 [info] > git status -z -uall [1ms]
+2023-06-15 00:09:56.191 [info] > git check-ignore -v -z --stdin [5ms]
+2023-06-15 00:09:56.192 [info] > git check-ignore -v -z --stdin [3ms]
+2023-06-15 00:10:54.395 [info] > git check-ignore -v -z --stdin [1ms]

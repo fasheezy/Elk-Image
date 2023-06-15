@@ -1,0 +1,11 @@
+{
+    "terminal.external.windowsExec": "C:\\\\WINDOWS\\\\System32\\\\wsl.exe",
+    "window.zoomLevel": 1,
+    "terminal.external.osxExec": "terminal.integrated.shell.windows",
+    "git.autofetch": true,
+    "git.confirmSync": false,
+    "terminal.integrated.altClickMovesCursor": false,
+    "remote.SSH.remotePlatform": {
+        "10.0.1.40": "linux"
+    }
+}
